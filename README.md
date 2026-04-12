@@ -1,1 +1,1 @@
-# Greedy-Method
+# Knapsack
